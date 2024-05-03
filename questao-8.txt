@@ -1,0 +1,4 @@
+-EVENT LOOP
+O event loop em js é um mecanismo que controla a execução de um codigo assíncrono.
+O event loop garante que operações assincronas sejam executadas de maneira eficiente, permitindo assim que o restante do codigo seja executado.
+Alem disso ele grante que o codigo seja executado na ordem correta, isso  ajuda a evitar que o codigo fique travado em operações lentas.

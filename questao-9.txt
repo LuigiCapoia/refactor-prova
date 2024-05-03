@@ -1,0 +1,10 @@
+
+-LIBUV e V8
+O libuv é uma biblioteca em C que fornece uma camada de abstração para operações de I/O assíncronas no Node.js, permitindo que ele seja multiplataforma. 
+Ele gerencia operações de I/O, como acesso ao sistema de arquivos, rede e outros eventos assíncronos.
+Já o V8 ele é um mecanismo para a execução do JavaScript, ele é escrito em C++.
+O V8 é responsável por compilar e executar o código JavaScript de forma eficiente.
+Assim os dois juntos podem tornar o JavaScript muito mais eficiente e rápido.
+
+
+
